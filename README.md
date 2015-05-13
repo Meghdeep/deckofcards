@@ -5,3 +5,4 @@ The docs are on http://deckofcardsapi.com
 
 Feel free to fork and do whatever you want with the project, it's all under the MIT license.
 
+https://news.ycombinator.com/item?id=9522489
